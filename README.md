@@ -5,7 +5,7 @@
 ________________________________________________________________________________________________
 
 # Things To Do before the starting program.
-
+0. First download and recombine the zips into one. There will be a tarball that you then untar.
 1. sudo apt install i2c-tools
 2. sudo apt install libi2c-dev
 3. Be sure to set permissions (sudo chmod 666 /dev/i2c-4)
@@ -31,3 +31,8 @@ ________________________________________________________________________________
 
 1. Here a link to the relay board:  https://a.co/d/iYyyoW3
 2. Operating system was Ubuntu 24.04 LTS
+
+
+________________________________________________________________________________________________
+
+P.S. Don't judge me for the multi zip system, wasn't sure how else to share online seeing that the files over 100MB.

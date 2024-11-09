@@ -4,7 +4,7 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ________________________________________________________________________________________________
 
-# Things ToDo before the starting program.
+# Things To Do before the starting program.
 
 1. sudo apt install i2c-tools
 2. sudo apt install libi2c-dev
